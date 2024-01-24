@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Yehor Kravchenko - Developer"
+    email: "brazuca.egor@gmail.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 523-5555
